@@ -18,7 +18,7 @@ These are the tools I have utilized for the following project:
 
 **Dataset Owner:** NYC OpenData
 
-
+## Purpose
 **Abstract :** This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of last year (2019). For additional details, please see the attached data dictionary in the ‘About’ section. 
 
 **Aim** : To find some insights on the NYPD crime data.
