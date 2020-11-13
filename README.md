@@ -10,13 +10,15 @@ These are the tools I have utilized for the following project:
 * Tableau
 * Talend Real-Time Data Platform 7.1
 
-**Data Set Name:** 'Borough and Precinct Crime Statistics'    [`link to Datasets`](https://www1.nyc.gov/site/nypd/stats/crime-statistics/crime-statistics-landing.page) which contains information on the crime statistics from the 5 boroughs in New York City.
+**Data Set Name:** 'Borough and Precinct Crime Statistics'    [`link to Datasets`](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) which contains information on the crime statistics from the 5 boroughs in New York City.
 
 #### **Source:**            
-**Name:** NYPD CompStat Unit
+**Dataset Provided by** Police Department (NYPD)
 
-**Abstract :** 
-**
+**Dataset Owner:** NYC OpenData
+
+
+**Abstract :** This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of last year (2019). For additional details, please see the attached data dictionary in the ‘About’ section. 
 
 **Aim** : To find some insights on the NYPD crime data.
 
