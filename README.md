@@ -10,7 +10,7 @@ These are the tools I have utilized for the following project:
 * Tableau
 * Talend Real-Time Data Platform 7.1
 
-**Data Set Name:** 'Borough and Precinct Crime Statistics'    [`link to Datasets`](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) which contains information on the crime statistics from the 5 boroughs in New York City.
+**Data Set Name:** 'NYPD Complaint Data Historic'    [`link to Datasets`](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i) which contains information on the crime statistics from the 5 boroughs in New York City.
 
 #### **Source:**            
 **Dataset Provided by** Police Department (NYPD)
